@@ -25,7 +25,7 @@
 
 ---
 
-- Выполнить команду `git clone`.
+- Выполнить команду `git clone https://github.com/AlexeyDemidow/Library_manager_project.git`.
 - Выполнить команду `pip install -r requirements.txt`.
 - Для создания файла библиотеки и заполнения его данными выполнить файл `library_fill.py` выполнив команду `python library_fill.py`.
 - Для запуска консольной системы управления библиотекой выполнить файл `library_manage.py` выполнив команду `python libary_manage.py`
